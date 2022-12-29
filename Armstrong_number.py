@@ -1,7 +1,7 @@
 num = int(input("Enter number: "))
 x = num  
 sum = 0
-
+#this is fake mahto edit
 while x > 0:
     a = x % 10  # e.g: x=153 then a=3
     sum += (a**3)
